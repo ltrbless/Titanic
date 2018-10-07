@@ -1,0 +1,16 @@
+PassengerId ：乘客ID
+Survived    ：是否幸存
+Pclass      ：票务舱
+SibSp       ：兄弟姐妹与配偶的数目
+Parch       ：父母孩子数目
+Ticket      ：票号
+Fare        ：票价
+Cabin       ：客舱号码
+Embarked    ：登船港口 
+Sex         ：1 男 0 女
+   
+
+ 
+   
+
+ 
